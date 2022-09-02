@@ -7,13 +7,10 @@ import unicodedata
 WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
 <!--
     Copyright (C) 2020 The Proton AOSP Project
-
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
         http://www.apache.org/licenses/LICENSE-2.0
-
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -23,20 +20,16 @@ WALLPAPERS_XML_HEADER = """<?xml version="1.0" encoding="utf-8" ?>
 <wallpapers>"""
 
 WALLPAPERS_XML_FOOTER = """
-
 </wallpapers>
 """
 
 STRINGS_XML_HEADER = """<?xml version="1.0" encoding="utf-8"?>
 <!--
     Copyright (C) 2020 The Proton AOSP Project
-
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
         http://www.apache.org/licenses/LICENSE-2.0
-
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -68,7 +61,6 @@ with open("res/xml/wallpapers.xml", "w+") as f:
         strings[f"category_{category_id}"] = category_name
 
         f.write(f"""
-
     <category id="{category_id}" title="@string/category_{category_id}" featured="{cat_info['featured']}">""")
 
         for set_name, wallpapers in cat_info["wallpapers"].items():
@@ -93,7 +85,6 @@ with open("res/xml/wallpapers.xml", "w+") as f:
 
                 # Open tag and write common attributes
                 f.write(f"""
-
         <static-wallpaper
             id="{wp_res_id}"
             src="@drawable/{wp_res_id}"
@@ -111,7 +102,6 @@ with open("res/xml/wallpapers.xml", "w+") as f:
                 f.write(" />")
 
         f.write("""
-
     </category>""")
 
     f.write(WALLPAPERS_XML_FOOTER)

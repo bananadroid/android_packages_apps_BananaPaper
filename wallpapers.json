@@ -1,4 +1,25 @@
 {
+    "Banana": {
+        "author": "BananaDroid",
+        "featured": "bananadroid_collection",
+        "wallpapers": {
+            "BananaDroid": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": ""
+            },
+            "AI Generations": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": "",
+                "7": ""
+            }
+        }
+    },
     "Unsplash": {
         "author": "Unsplash",
         "featured": "unsplash_water_stars_bAcR26qMPnY",

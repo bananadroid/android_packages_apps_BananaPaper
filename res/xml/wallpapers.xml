@@ -16,6 +16,76 @@
 -->
 <wallpapers>
 
+    <category id="banana" title="@string/category_banana" featured="bananadroid_collection">
+
+        <static-wallpaper
+            id="banana1"
+            src="@drawable/banana1"
+            title="@string/wallpaper_banana1"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana2"
+            src="@drawable/banana2"
+            title="@string/wallpaper_banana2"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana3"
+            src="@drawable/banana3"
+            title="@string/wallpaper_banana3"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana4"
+            src="@drawable/banana4"
+            title="@string/wallpaper_banana4"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana5"
+            src="@drawable/banana5"
+            title="@string/wallpaper_banana5"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana6"
+            src="@drawable/banana6"
+            title="@string/wallpaper_banana6"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana7"
+            src="@drawable/banana7"
+            title="@string/wallpaper_banana7"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana8"
+            src="@drawable/banana8"
+            title="@string/wallpaper_banana8"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana9"
+            src="@drawable/banana9"
+            title="@string/wallpaper_banana9"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana10"
+            src="@drawable/banana10"
+            title="@string/wallpaper_banana10"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
+            id="banana11"
+            src="@drawable/banana11"
+            title="@string/wallpaper_banana11"
+            subtitle1="@string/author_banana" />
+
+    </category>
+
     <category id="unsplash" title="@string/category_unsplash" featured="unsplash_water_stars_bAcR26qMPnY">
 
         <static-wallpaper

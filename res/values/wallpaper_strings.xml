@@ -15,6 +15,19 @@
     limitations under the License.
 -->
 <resources>
+    <string name="category_banana">Banana Collection</string>
+    <string name="author_banana">by BananaDroid</string>
+    <string name="wallpaper_banana1">Banana Collection 1</string>
+    <string name="wallpaper_banana2">Banana Collection 2</string>
+    <string name="wallpaper_banana3">Banana Collection 3</string>
+    <string name="wallpaper_banana4">Banana Collection 4</string>
+    <string name="wallpaper_banana5">Banana Collection 5</string>
+    <string name="wallpaper_banana6">Banana Collection 6</string>
+    <string name="wallpaper_banana7">Banana Collection 7</string>
+    <string name="wallpaper_banana8">Banana Collection 8</string>
+    <string name="wallpaper_banana9">Banana Collection 9</string>
+    <string name="wallpaper_banana10">Banana Collection 10</string>
+    <string name="wallpaper_banana11">Banana Collection 11</string>
     <string name="category_unsplash">Unsplash</string>
     <string name="author_vincent_ledvina">by Vincent Ledvina</string>
     <string name="wallpaper_unsplash_water_stars_bAcR26qMPnY">Water Stars</string>

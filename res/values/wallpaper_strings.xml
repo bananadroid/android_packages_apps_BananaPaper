@@ -17,6 +17,7 @@
 <resources>
     <string name="category_banana">Banana Collection</string>
     <string name="author_banana">by BananaDroid</string>
+    <string name="wallpaper_banana0">Banana Collection 0</string>
     <string name="wallpaper_banana1">Banana Collection 1</string>
     <string name="wallpaper_banana2">Banana Collection 2</string>
     <string name="wallpaper_banana3">Banana Collection 3</string>

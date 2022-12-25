@@ -19,6 +19,12 @@
     <category id="banana" title="@string/category_banana" featured="bananadroid_collection">
 
         <static-wallpaper
+            id="banana0"
+            src="@drawable/banana0"
+            title="@string/wallpaper_banana0"
+            subtitle1="@string/author_banana" />
+
+        <static-wallpaper
             id="banana1"
             src="@drawable/banana1"
             title="@string/wallpaper_banana1"

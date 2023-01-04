@@ -206,6 +206,48 @@
             subtitle1="@string/author_zachary_delorenzo"
             actionUrl="@string/url_unsplash_spider_noir_HAOF1wfW7f4" />
 
+        <static-wallpaper
+            id="unsplash_borobudur_temple_YoioVoIVyrk"
+            src="@drawable/unsplash_borobudur_temple_YoioVoIVyrk"
+            title="@string/wallpaper_unsplash_borobudur_temple_YoioVoIVyrk"
+            subtitle1="@string/author_aviv_rachmadian"
+            actionUrl="@string/url_unsplash_borobudur_temple_YoioVoIVyrk" />
+
+        <static-wallpaper
+            id="unsplash_3D_Pink_L8LKqpOwjj8"
+            src="@drawable/unsplash_3D_Pink_L8LKqpOwjj8"
+            title="@string/wallpaper_unsplash_3D_Pink_L8LKqpOwjj8"
+            subtitle1="@string/author_oscar_mackey"
+            actionUrl="@string/url_unsplash_3D_Pink_L8LKqpOwjj8" />
+
+        <static-wallpaper
+            id="unsplash_new_day_EqHKd6PbF44"
+            src="@drawable/unsplash_new_day_EqHKd6PbF44"
+            title="@string/wallpaper_unsplash_new_day_EqHKd6PbF44"
+            subtitle1="@string/author_gift_habeshaw"
+            actionUrl="@string/url_unsplash_new_day_EqHKd6PbF44" />
+
+        <static-wallpaper
+            id="unsplash_bromo_temple_SqcgF3SImic"
+            src="@drawable/unsplash_bromo_temple_SqcgF3SImic"
+            title="@string/wallpaper_unsplash_bromo_temple_SqcgF3SImic"
+            subtitle1="@string/author_iswanto_arif"
+            actionUrl="@string/url_unsplash_bromo_temple_SqcgF3SImic" />
+
+        <static-wallpaper
+            id="unsplash_komodo_dragon_XkoGsSaLO50"
+            src="@drawable/unsplash_komodo_dragon_XkoGsSaLO50"
+            title="@string/wallpaper_unsplash_komodo_dragon_XkoGsSaLO50"
+            subtitle1="@string/author_guillaume_marques"
+            actionUrl="@string/url_unsplash_komodo_dragon_XkoGsSaLO50" />
+
+        <static-wallpaper
+            id="unsplash_chillin_day_tqQEwP4G7v8"
+            src="@drawable/unsplash_chillin_day_tqQEwP4G7v8"
+            title="@string/wallpaper_unsplash_chillin_day_tqQEwP4G7v8"
+            subtitle1="@string/author_pramod_tiwari"
+            actionUrl="@string/url_unsplash_chillin_day_tqQEwP4G7v8" />
+
     </category>
 
 </wallpapers>

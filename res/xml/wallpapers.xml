@@ -19,12 +19,6 @@
     <category id="banana" title="@string/category_banana" featured="bananadroid_collection">
 
         <static-wallpaper
-            id="banana0"
-            src="@drawable/banana0"
-            title="@string/wallpaper_banana0"
-            subtitle1="@string/author_banana" />
-
-        <static-wallpaper
             id="banana1"
             src="@drawable/banana1"
             title="@string/wallpaper_banana1"
@@ -90,6 +84,12 @@
             title="@string/wallpaper_banana11"
             subtitle1="@string/author_banana" />
 
+        <static-wallpaper
+            id="banana12"
+            src="@drawable/banana12"
+            title="@string/wallpaper_banana12"
+            subtitle1="@string/author_banana" />
+
     </category>
 
     <category id="unsplash" title="@string/category_unsplash" featured="unsplash_water_stars_bAcR26qMPnY">
@@ -109,60 +109,11 @@
             actionUrl="@string/url_unsplash_night_mountain_6dqCCs0vCcU" />
 
         <static-wallpaper
-            id="unsplash_cloudy_mountain_urabtxT2xPY"
-            src="@drawable/unsplash_cloudy_mountain_urabtxT2xPY"
-            title="@string/wallpaper_unsplash_cloudy_mountain_urabtxT2xPY"
-            subtitle1="@string/author_colin_lloyd"
-            actionUrl="@string/url_unsplash_cloudy_mountain_urabtxT2xPY" />
-
-        <static-wallpaper
             id="unsplash_twilight_mountain_mt9TrXpGQjo"
             src="@drawable/unsplash_twilight_mountain_mt9TrXpGQjo"
             title="@string/wallpaper_unsplash_twilight_mountain_mt9TrXpGQjo"
             subtitle1="@string/author_marek_piwnicki"
             actionUrl="@string/url_unsplash_twilight_mountain_mt9TrXpGQjo" />
-
-        <static-wallpaper
-            id="unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            src="@drawable/unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            title="@string/wallpaper_unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            subtitle1="@string/author_ines_alvarez_fdez"
-            actionUrl="@string/url_unsplash_jungle_waterfall_ZfdwcbRyxHk" />
-
-        <static-wallpaper
-            id="unsplash_aurora_lights_CgoRzWX4CDg"
-            src="@drawable/unsplash_aurora_lights_CgoRzWX4CDg"
-            title="@string/wallpaper_unsplash_aurora_lights_CgoRzWX4CDg"
-            subtitle1="@string/author_benjamin_suter"
-            actionUrl="@string/url_unsplash_aurora_lights_CgoRzWX4CDg" />
-
-        <static-wallpaper
-            id="unsplash_warm_jellyfish_NAP14GEjvh8"
-            src="@drawable/unsplash_warm_jellyfish_NAP14GEjvh8"
-            title="@string/wallpaper_unsplash_warm_jellyfish_NAP14GEjvh8"
-            subtitle1="@string/author_zetong_li"
-            actionUrl="@string/url_unsplash_warm_jellyfish_NAP14GEjvh8" />
-
-        <static-wallpaper
-            id="unsplash_chinese_lantern_SEOhJImTmIA"
-            src="@drawable/unsplash_chinese_lantern_SEOhJImTmIA"
-            title="@string/wallpaper_unsplash_chinese_lantern_SEOhJImTmIA"
-            subtitle1="@string/author_samuel_ferrara"
-            actionUrl="@string/url_unsplash_chinese_lantern_SEOhJImTmIA" />
-
-        <static-wallpaper
-            id="unsplash_pastel_plant_BaDjCICkyag"
-            src="@drawable/unsplash_pastel_plant_BaDjCICkyag"
-            title="@string/wallpaper_unsplash_pastel_plant_BaDjCICkyag"
-            subtitle1="@string/author_sixteen_miles_out"
-            actionUrl="@string/url_unsplash_pastel_plant_BaDjCICkyag" />
-
-        <static-wallpaper
-            id="unsplash_paint_splash_O_KKGafRBMk"
-            src="@drawable/unsplash_paint_splash_O_KKGafRBMk"
-            title="@string/wallpaper_unsplash_paint_splash_O_KKGafRBMk"
-            subtitle1="@string/author_pawel_czerwinski"
-            actionUrl="@string/url_unsplash_paint_splash_O_KKGafRBMk" />
 
         <static-wallpaper
             id="unsplash_lighter_up__SkAOulmXzQ"
@@ -207,6 +158,13 @@
             actionUrl="@string/url_unsplash_spider_noir_HAOF1wfW7f4" />
 
         <static-wallpaper
+            id="unsplash_robot_toy_c_vviuvSTEU"
+            src="@drawable/unsplash_robot_toy_c_vviuvSTEU"
+            title="@string/wallpaper_unsplash_robot_toy_c_vviuvSTEU"
+            subtitle1="@string/author_amr_taha"
+            actionUrl="@string/url_unsplash_robot_toy_c_vviuvSTEU" />
+
+        <static-wallpaper
             id="unsplash_borobudur_temple_YoioVoIVyrk"
             src="@drawable/unsplash_borobudur_temple_YoioVoIVyrk"
             title="@string/wallpaper_unsplash_borobudur_temple_YoioVoIVyrk"
@@ -240,13 +198,6 @@
             title="@string/wallpaper_unsplash_komodo_dragon_XkoGsSaLO50"
             subtitle1="@string/author_guillaume_marques"
             actionUrl="@string/url_unsplash_komodo_dragon_XkoGsSaLO50" />
-
-        <static-wallpaper
-            id="unsplash_chillin_day_tqQEwP4G7v8"
-            src="@drawable/unsplash_chillin_day_tqQEwP4G7v8"
-            title="@string/wallpaper_unsplash_chillin_day_tqQEwP4G7v8"
-            subtitle1="@string/author_pramod_tiwari"
-            actionUrl="@string/url_unsplash_chillin_day_tqQEwP4G7v8" />
 
     </category>
 

@@ -31,6 +31,7 @@
     <string name="wallpaper_banana12">Banana Collection 12</string>
     <string name="wallpaper_banana13">Banana Collection 13</string>
     <string name="wallpaper_banana14">Banana Collection 14</string>
+    <string name="wallpaper_banana15">Banana Collection 15</string>
     <string name="category_unsplash">Unsplash</string>
     <string name="author_vincent_ledvina">by Vincent Ledvina</string>
     <string name="wallpaper_unsplash_water_stars_bAcR26qMPnY">Water Stars</string>
@@ -77,4 +78,13 @@
     <string name="author_guillaume_marques">by Guillaume Marques</string>
     <string name="wallpaper_unsplash_komodo_dragon_XkoGsSaLO50">Komodo Dragon</string>
     <string name="url_unsplash_komodo_dragon_XkoGsSaLO50">https://unsplash.com/photos/XkoGsSaLO50</string>
+    <string name="author_todd_trapani">by Todd Trapani</string>
+    <string name="wallpaper_unsplash_seawaves_PKM-8aeMO8o">Sea Waves</string>
+    <string name="url_unsplash_seawaves_PKM-8aeMO8o">https://unsplash.com/photos/PKM-8aeMO8o</string>
+    <string name="author_sebastien_vantroyen">by Sébastien Vantroyen</string>
+    <string name="wallpaper_unsplash_bali_beach_NA6sdVZuHPc">Bali Beach</string>
+    <string name="url_unsplash_bali_beach_NA6sdVZuHPc">https://unsplash.com/photos/NA6sdVZuHPc</string>
+    <string name="author_harshit_mahabale">by Harshit Mahabale</string>
+    <string name="wallpaper_unsplash_doraemon_tkdqPQyMKTI">Doraemon</string>
+    <string name="url_unsplash_doraemon_tkdqPQyMKTI">https://unsplash.com/photos/tkdqPQyMKTI</string>
 </resources>

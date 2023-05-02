@@ -102,6 +102,12 @@
             title="@string/wallpaper_banana14"
             subtitle1="@string/author_banana" />
 
+        <static-wallpaper
+            id="banana15"
+            src="@drawable/banana15"
+            title="@string/wallpaper_banana15"
+            subtitle1="@string/author_banana" />
+
     </category>
 
     <category id="unsplash" title="@string/category_unsplash" featured="unsplash_water_stars_bAcR26qMPnY">
@@ -211,6 +217,26 @@
             subtitle1="@string/author_guillaume_marques"
             actionUrl="@string/url_unsplash_komodo_dragon_XkoGsSaLO50" />
 
+        <static-wallpaper
+            id="unsplash_seawaves_PKM-8aeMO8o"
+            src="@drawable/unsplash_seawaves_PKM-8aeMO8o"
+            title="@string/wallpaper_unsplash_seawaves_PKM-8aeMO8o"
+            subtitle1="@string/author_todd_trapani"
+            actionUrl="@string/url_unsplash_seawaves_PKM-8aeMO8o" />
+
+        <static-wallpaper
+            id="unsplash_bali_beach_NA6sdVZuHPc"
+            src="@drawable/unsplash_bali_beach_NA6sdVZuHPc"
+            title="@string/wallpaper_unsplash_bali_beach_NA6sdVZuHPc"
+            subtitle1="@string/author_sebastien_vantroyen"
+            actionUrl="@string/url_unsplash_bali_beach_NA6sdVZuHPc" />
+
+        <static-wallpaper
+            id="unsplash_doraemon_tkdqPQyMKTI"
+            src="@drawable/unsplash_doraemon_tkdqPQyMKTI"
+            title="@string/wallpaper_unsplash_doraemon_tkdqPQyMKTI"
+            subtitle1="@string/author_harshit_mahabale"
+            actionUrl="@string/url_unsplash_doraemon_tkdqPQyMKTI" />
     </category>
 
 </wallpapers>

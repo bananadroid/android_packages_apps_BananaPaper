@@ -108,6 +108,12 @@
             title="@string/wallpaper_banana15"
             subtitle1="@string/author_banana" />
 
+        <static-wallpaper
+            id="banana16"
+            src="@drawable/banana16"
+            title="@string/wallpaper_banana16"
+            subtitle1="@string/author_banana" />
+
     </category>
 
     <category id="unsplash" title="@string/category_unsplash" featured="unsplash_water_stars_bAcR26qMPnY">
